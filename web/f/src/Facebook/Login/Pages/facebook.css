@@ -1,0 +1,16 @@
+.facebook
+{
+    color: white;
+}
+.face
+{
+    background: #4267b2;
+    margin: 0 auto;
+    cursor: pointer;
+    height: 30px;
+    padding-top: 1%;
+    text-align: center;
+    margin-top:3%;
+    width:12%;
+    display:inline-block
+}

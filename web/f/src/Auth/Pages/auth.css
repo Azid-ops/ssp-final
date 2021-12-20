@@ -1,0 +1,22 @@
+.outer
+{
+    text-align: center;
+    margin-top: 5%;
+}
+.mine
+{
+    padding-left: 2px;
+}
+.nav
+{
+    text-decoration:none;
+    background-color:green;
+    color:white; 
+    border:none;
+    padding: 10px;
+}
+
+.secret
+{
+    color:red;
+}

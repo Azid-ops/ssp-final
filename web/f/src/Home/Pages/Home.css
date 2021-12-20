@@ -1,0 +1,62 @@
+.browse
+{
+    border: 1px solid gray;
+    padding-bottom: 3%;
+    display: inline-block;
+    margin-top:2%;
+    font-family: 'Roboto', sans-serif;
+    width: 70%;
+}
+.outerDiv
+{
+    text-align: center;
+    font-weight: bold;
+}
+.browseText
+{
+    color:#df4602;
+    font-weight:bold;
+}
+p
+{
+    font-weight:bold;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.skill
+{
+    border-right: 2px solid gray;
+    display:inline-block;
+    padding-left: 10%;
+    padding-right:10%;
+}
+.bySkill
+{
+    margin: 0
+}
+.region
+{
+    display: inline-block;
+    padding-left: 10%;
+    padding-right:10%;
+}
+input
+{
+    width:20em;
+    height:3em;
+    padding-left:5%;
+}
+.localOuter
+{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    width:70%;
+    margin:auto;
+    margin-top:4%;
+
+}
+.local
+{
+    color:#df4602;
+}
