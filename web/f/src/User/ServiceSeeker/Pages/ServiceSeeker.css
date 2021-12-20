@@ -1,0 +1,79 @@
+.outer
+{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.reg
+{
+    font-family: 'Roboto', sans-serif;
+}
+.my
+{
+    padding: 0;
+    width: 20%;
+}
+.register
+{
+    background-Color:green;
+    text-decoration: none;
+    color:white;
+    padding: 10px 30px 10px 30px;
+}
+.preview
+{
+    margin-top: 10%;
+}
+.data
+{
+    margin-top: 5%;
+    display: inline-block;
+    width: 30%;
+}
+
+.myList
+{
+    list-style: none;
+}
+
+.candi
+{
+    margin-top: 2%;
+    display: inline-block;
+    width: 60%;
+    border-radius: 40px;
+    text-align: center;
+    box-shadow: 2px 2px 2px 2px #ccc;
+}
+
+img
+{
+    border-radius: 40px;
+}
+.mainDiv
+{
+    text-align: center;
+}
+
+.profile
+{
+    border-radius: 50px;
+    width: 30%;
+    height: 100px;
+    display: inline-block;
+}
+p
+{
+    font-family: 'Kaisei HarunoUmi', serif;
+
+}
+
+.Election
+{
+    font-family: 'Kaisei HarunoUmi', serif;
+    margin-bottom: 5%;
+    background-color: green;
+    border: none;
+    color: whitesmoke;
+    padding: 10px;
+    cursor:pointer;
+}
